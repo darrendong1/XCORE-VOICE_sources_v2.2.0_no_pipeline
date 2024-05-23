@@ -1,0 +1,2 @@
+xmosar qc libfwk_voice_module_lib_vnr_features.a CMakeFiles/fwk_voice_module_lib_vnr_features.dir/src/features/vnr_features.c.obj CMakeFiles/fwk_voice_module_lib_vnr_features.dir/src/features/vnr_features_priv.c.obj
+echo libfwk_voice_module_lib_vnr_features.a

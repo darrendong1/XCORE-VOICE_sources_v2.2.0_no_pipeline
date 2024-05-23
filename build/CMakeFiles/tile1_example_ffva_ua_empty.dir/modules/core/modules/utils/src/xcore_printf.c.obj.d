@@ -1,0 +1,34 @@
+CMakeFiles/tile1_example_ffva_ua_empty.dir/modules/core/modules/utils/src/xcore_printf.c.obj: \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/utils/src/xcore_printf.c \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/stdarg.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/syscall.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/limits.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/newlib.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/limits.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/string.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/_ansi.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/config.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/ieeefp.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/reent.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/_types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/_types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/_default_types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/lock.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/stddef.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/string.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/stdint.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/ctype.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/utils/api/xcore_printf.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/utils/api/xcore_interrupt.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/timer.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_g4000b-512.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_defines.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_clock.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/utils/api/xcore_macros.h

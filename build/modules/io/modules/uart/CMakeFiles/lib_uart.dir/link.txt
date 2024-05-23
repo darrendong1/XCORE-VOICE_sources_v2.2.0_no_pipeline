@@ -1,0 +1,2 @@
+xmosar qc liblib_uart.a CMakeFiles/lib_uart.dir/src/uart_rx.c.obj CMakeFiles/lib_uart.dir/src/uart_tx.c.obj CMakeFiles/lib_uart.dir/src/uart_util.c.obj
+echo liblib_uart.a

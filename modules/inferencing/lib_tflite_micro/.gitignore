@@ -1,0 +1,16 @@
+.venv
+app_ie/.build
+app_ie/bin
+host_cmd_line_interpreter/build
+host_cmd_line_interpreter/bin
+.DS_Store
+xtflm_interpreter/build
+xtflm_interpreter/xtflm_interpreter/libs/
+xtflm_interpreter/xtflm_interpreter/__pycache__/
+xtflm_interpreter/.eggs/
+xtflm_interpreter/xtflm_interpreter.egg-info/
+flash_builder/flash_builder/__pycache__/
+flash_builder/.eggs/
+flash_builder/flash_builder.egg-info/
+*.pyc
+

@@ -1,0 +1,2 @@
+xmosar qc libfwk_voice_module_lib_ic.a CMakeFiles/fwk_voice_module_lib_ic.dir/src/ic.c.obj CMakeFiles/fwk_voice_module_lib_ic.dir/src/ic_low_level.c.obj
+echo libfwk_voice_module_lib_ic.a

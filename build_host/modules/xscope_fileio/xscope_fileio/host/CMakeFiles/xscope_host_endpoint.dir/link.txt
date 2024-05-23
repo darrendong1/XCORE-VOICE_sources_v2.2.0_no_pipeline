@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/xscope_host_endpoint.dir/xscope_io_host.c.o -o xscope_host_endpoint  -Wl,-rpath,/home/dd/XMOS/XTC/15.2.1/lib: /home/dd/XMOS/XTC/15.2.1/lib/xscope_endpoint.so 

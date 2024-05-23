@@ -1,0 +1,2 @@
+xmosar qc liblib_random.a CMakeFiles/lib_random.dir/lib_random/lib_random/src/random.xc.obj CMakeFiles/lib_random.dir/lib_random/lib_random/src/random_init.c.obj
+echo liblib_random.a

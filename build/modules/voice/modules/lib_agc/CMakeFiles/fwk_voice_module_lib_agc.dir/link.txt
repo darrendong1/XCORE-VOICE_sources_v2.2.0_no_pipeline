@@ -1,0 +1,2 @@
+xmosar qc libfwk_voice_module_lib_agc.a CMakeFiles/fwk_voice_module_lib_agc.dir/src/agc_impl.c.obj
+echo libfwk_voice_module_lib_agc.a

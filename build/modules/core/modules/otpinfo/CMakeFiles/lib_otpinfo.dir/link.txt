@@ -1,0 +1,2 @@
+xmosar qc liblib_otpinfo.a CMakeFiles/lib_otpinfo.dir/lib_otpinfo/lib_otpinfo/src/otp_board_info.xc.obj
+echo liblib_otpinfo.a

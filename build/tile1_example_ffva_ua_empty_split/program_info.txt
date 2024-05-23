@@ -1,0 +1,32 @@
+Application id number: 0x00000000
+Application id string: "".
+tile[0] (node "0", tile 0) stack usage,  upper bound: 356
+tile[0] (node "0", tile 0) program size,  upper bound: 11968
+tile[0] (node "0", tile 0) free memory,  lower bound: 511964
+tile[0] (node "0", tile 0) thread usage,  upper bound: 1
+tile[0] (node "0", tile 0) unused threads,  lower bound: 7
+tile[0] (node "0", tile 0) timer count,  upper bound: 1
+tile[0] (node "0", tile 0) unused timers,  lower bound: 9
+tile[0] (node "0", tile 0) channel end usage,  upper bound: 2
+tile[0] (node "0", tile 0) unused channel ends,  lower bound: 30
+tile[1] (node "0", tile 1) stack usage,  upper bound: 8084
+tile[1] (node "0", tile 1) program size,  upper bound: 168600
+tile[1] (node "0", tile 1) free memory,  lower bound: 347604
+tile[1] (node "0", tile 1) thread usage,  upper bound: 8
+tile[1] (node "0", tile 1) unused threads,  lower bound: 0
+tile[1] (node "0", tile 1) timer count,  upper bound: 8
+tile[1] (node "0", tile 1) unused timers,  lower bound: 2
+tile[1] (node "0", tile 1) channel end usage,  upper bound: 3+
+tile[1] (node "0", tile 1) unused channel ends,  lower bound: 29
+tile[0] (node "0", tile 0) uses port XS1_PORT_1F
+tile[0] (node "0", tile 0) uses port XS1_PORT_1E
+tile[0] (node "0", tile 0) uses port XS1_PORT_1H
+tile[0] (node "0", tile 0) uses port XS1_PORT_1J
+tile[0] (node "0", tile 0) uses port XS1_PORT_1K
+tile[0] (node "0", tile 0) uses port XS1_PORT_1I
+tile[0] (node "0", tile 0) uses port XS1_PORT_8A
+tile[0] (node "0", tile 0) uses port XS1_PORT_8B
+Node "0" routing id =  0x8002
+Node "0" PLL configuration register value =  0x00003100
+Node "0" reference clock divider register value =  0x00000005
+Node "0" system frequency (Hz) =  600000000

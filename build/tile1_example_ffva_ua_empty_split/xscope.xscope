@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xSCOPEconfig enabled="true" initTracing="true" ioMode="basic">
+  <Probe name="freertos_trace" enabled="true" units="NONE" id="0" type="CONTINUOUS" datatype="NONE"/>
+  <Probe name="pll_freq" enabled="true" units="NONE" id="1" type="CONTINUOUS" datatype="UINT"/>
+</xSCOPEconfig>

@@ -1,0 +1,2 @@
+xmosar qc liblib_i2c.a CMakeFiles/lib_i2c.dir/src/i2c_master.c.obj CMakeFiles/lib_i2c.dir/src/i2c_slave.c.obj
+echo liblib_i2c.a

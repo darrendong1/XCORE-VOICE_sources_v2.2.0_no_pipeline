@@ -1,0 +1,2 @@
+xmosar qc liblib_trycatch.a CMakeFiles/lib_trycatch.dir/lib_trycatch/lib_trycatch/src/trycatch_asm.S.obj CMakeFiles/lib_trycatch.dir/lib_trycatch/lib_trycatch/src/trycatch.c.obj
+echo liblib_trycatch.a

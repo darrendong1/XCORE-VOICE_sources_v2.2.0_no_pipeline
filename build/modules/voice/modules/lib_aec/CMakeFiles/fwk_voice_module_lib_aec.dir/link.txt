@@ -1,0 +1,2 @@
+xmosar qc libfwk_voice_module_lib_aec.a CMakeFiles/fwk_voice_module_lib_aec.dir/src/aec_impl.c.obj CMakeFiles/fwk_voice_module_lib_aec.dir/src/aec_l2_impl.c.obj CMakeFiles/fwk_voice_module_lib_aec.dir/src/aec_priv_impl.c.obj
+echo libfwk_voice_module_lib_aec.a

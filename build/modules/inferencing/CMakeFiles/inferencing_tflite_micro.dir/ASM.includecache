@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/inferencing/lib_tflite_micro/lib_tflite_micro/src/thread_call.S
+xs1.h
+-
+

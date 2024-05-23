@@ -1,0 +1,31 @@
+CMakeFiles/tile0_example_ffva_ua_empty.dir/modules/rtos/modules/rtos_support/src/rtos_time.c.obj: \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/rtos/modules/rtos_support/src/rtos_time.c \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/rtos/modules/rtos_support/api/rtos_time.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/stdint.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/rtos/modules/rtos_support/api/rtos_locks.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/rtos/modules/FreeRTOS/FreeRTOS-SMP-Kernel/portable/ThirdParty/xClang/XCOREAI/rtos_support_rtos_config.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/lock.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_common.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_lock_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/timer.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_g4000b-512.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_defines.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_clock.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_resource_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_macros.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_feature_test_impl.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/multitile_support/api/platform.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/platform.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/assert.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_hardware_assert.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/limits.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/newlib.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/limits.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_reference_time.h

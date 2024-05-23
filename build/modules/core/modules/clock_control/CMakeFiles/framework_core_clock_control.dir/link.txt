@@ -1,0 +1,2 @@
+xmosar qc libframework_core_clock_control.a CMakeFiles/framework_core_clock_control.dir/src/xcore_clock_control.c.obj CMakeFiles/framework_core_clock_control.dir/__/utils/src/xcore_interrupt.c.obj CMakeFiles/framework_core_clock_control.dir/__/utils/src/xcore_printf.c.obj
+echo libframework_core_clock_control.a

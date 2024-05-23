@@ -1,0 +1,2 @@
+xmosar qc libfwk_voice_module_lib_adec.a CMakeFiles/fwk_voice_module_lib_adec.dir/src/adec_impl.c.obj CMakeFiles/fwk_voice_module_lib_adec.dir/src/adec_priv_impl.c.obj CMakeFiles/fwk_voice_module_lib_adec.dir/src/de_impl.c.obj
+echo libfwk_voice_module_lib_adec.a

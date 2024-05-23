@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/datapartition_mkimage.dir/datapartition_mkimage.c.o -o datapartition_mkimage 

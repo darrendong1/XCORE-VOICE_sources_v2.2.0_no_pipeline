@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/trycatch/lib_trycatch/lib_trycatch/src/trycatch_asm.S
+xs1.h
+-
+

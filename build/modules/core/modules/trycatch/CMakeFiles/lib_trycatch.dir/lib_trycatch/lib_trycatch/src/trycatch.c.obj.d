@@ -1,0 +1,23 @@
+modules/core/modules/trycatch/CMakeFiles/lib_trycatch.dir/lib_trycatch/lib_trycatch/src/trycatch.c.obj: \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/trycatch/lib_trycatch/lib_trycatch/src/trycatch.c \
+  /home/dd/XMOS/XTC/15.2.1/target/include/setjmp.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/_ansi.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/newlib.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/config.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/ieeefp.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/setjmp.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/trycatch/lib_trycatch/lib_trycatch/api/trycatch.h \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/trycatch/lib_trycatch/lib_trycatch/src/trycatch_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xccompat.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/stdint.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/timer.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_g4000b-512.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_defines.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_clock.h

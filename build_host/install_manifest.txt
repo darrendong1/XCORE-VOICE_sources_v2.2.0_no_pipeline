@@ -1,0 +1,4 @@
+/opt/xmos/bin/nibble_swap
+/opt/xmos/bin/fatfs_mkimage
+/opt/xmos/bin/datapartition_mkimage
+/opt/xmos/bin/xscope_host_endpoint

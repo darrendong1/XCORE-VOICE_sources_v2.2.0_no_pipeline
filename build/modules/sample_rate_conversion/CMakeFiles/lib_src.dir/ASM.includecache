@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_of_3/src_ff3_fir_inner_loop_asm.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_of_3_voice/ds3_voice/src_ff3v_ds3_voice.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_of_3_voice/src_ff3v_fir.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_of_3_voice/us3_voice/src_ff3v_us3_voice.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_vpu_voice/asm/conv_s32_24t.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_vpu_voice/asm/conv_s32_32t.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_vpu_voice/asm/fir_s32_24t.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_vpu_voice/asm/fir_s32_32t.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_vpu_voice/asm/fir_s32_48t.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/fixed_factor_vpu_voice/asm/push_s32_48t.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/multirate_hifi/src_mrhf_adfir_inner_loop_asm.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/multirate_hifi/src_mrhf_dither_maths_asm.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/multirate_hifi/src_mrhf_fir_inner_loop_asm.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/multirate_hifi/src_mrhf_fir_os_inner_loop_asm.S
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/sample_rate_conversion/lib_src/lib_src/src/multirate_hifi/src_mrhf_spline_coeff_gen_inner_loop_asm.S
+

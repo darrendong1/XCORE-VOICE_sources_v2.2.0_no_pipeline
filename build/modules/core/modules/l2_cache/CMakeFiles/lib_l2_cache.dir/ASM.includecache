@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/api/l2_cache_config_checks.h
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/api/l2_cache_default_config.h
+l2_cache_config_checks.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/api/l2_cache_config_checks.h
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/l2_cache_direct_map.S
+xs1.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/xs1.h
+l2_cache_default_config.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/l2_cache_default_config.h
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/l2_cache_misc.S
+xs1.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/xs1.h
+l2_cache_default_config.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/l2_cache_default_config.h
+
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/l2_cache_two_way.S
+xs1.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/xs1.h
+l2_cache_default_config.h
+/home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/core/modules/l2_cache/lib_l2_cache/lib_l2_cache/src/l2_cache_default_config.h
+

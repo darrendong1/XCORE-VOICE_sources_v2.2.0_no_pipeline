@@ -1,0 +1,28 @@
+modules/inferencing/CMakeFiles/inferencing_tflite_micro.dir/lib_tflite_micro/lib_tflite_micro/submodules/tflite-micro/tensorflow/lite/micro/micro_string.cc.obj: \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/inferencing/lib_tflite_micro/lib_tflite_micro/submodules/tflite-micro/tensorflow/lite/micro/micro_string.cc \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/inferencing/lib_tflite_micro/lib_tflite_micro/submodules/tflite-micro/tensorflow/lite/micro/micro_string.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/c++/v1/cstdarg \
+  /home/dd/XMOS/XTC/15.2.1/target/include/c++/v1/__config \
+  /home/dd/XMOS/XTC/15.2.1/target/include/unistd.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/unistd.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/_ansi.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/newlib.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/config.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/ieeefp.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/_types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/_default_types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/_types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/lock.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/stddef.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/machine/types.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/features.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/errno.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/errno.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/reent.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/stdarg.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/c++/v1/cstdint \
+  /home/dd/XMOS/XTC/15.2.1/target/include/stdint.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/c++/v1/cstring \
+  /home/dd/XMOS/XTC/15.2.1/target/include/string.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/sys/string.h

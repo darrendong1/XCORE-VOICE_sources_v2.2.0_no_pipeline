@@ -1,0 +1,15 @@
+tile1_example_ffva_ua_empty.xe: file format: xcore-xe
+
+Xmos binary split sectors: file: tile1_example_ffva_ua_empty.xe
+
+Dumping file: tile1_example_ffva_ua_empty_split/image_n0c0.elf
+Dumping file: tile1_example_ffva_ua_empty_split/image_n0c1.elf
+Dumping file: tile1_example_ffva_ua_empty_split/image_n0c0_2.elf
+Dumping file: tile1_example_ffva_ua_empty_split/image_n0c1_2.elf
+Dumping file: tile1_example_ffva_ua_empty_split/config.xml
+Dumping file: tile1_example_ffva_ua_empty_split/platform_def.xn
+Dumping file: tile1_example_ffva_ua_empty_split/program_info.txt
+Dumping file: tile1_example_ffva_ua_empty_split/xscope.xscope
+
+example_ffva_ua_empty.xe: file format: xcore-xe
+

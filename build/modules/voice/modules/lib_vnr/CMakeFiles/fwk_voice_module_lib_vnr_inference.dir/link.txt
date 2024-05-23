@@ -1,0 +1,2 @@
+xmosar qc libfwk_voice_module_lib_vnr_inference.a CMakeFiles/fwk_voice_module_lib_vnr_inference.dir/src/inference/model/trained_model_xcore.cpp.obj CMakeFiles/fwk_voice_module_lib_vnr_inference.dir/src/inference/vnr_inference.cc.obj CMakeFiles/fwk_voice_module_lib_vnr_inference.dir/src/inference/vnr_inference_priv.cc.obj CMakeFiles/fwk_voice_module_lib_vnr_inference.dir/src/inference/wrapper.cpp.obj
+echo libfwk_voice_module_lib_vnr_inference.a

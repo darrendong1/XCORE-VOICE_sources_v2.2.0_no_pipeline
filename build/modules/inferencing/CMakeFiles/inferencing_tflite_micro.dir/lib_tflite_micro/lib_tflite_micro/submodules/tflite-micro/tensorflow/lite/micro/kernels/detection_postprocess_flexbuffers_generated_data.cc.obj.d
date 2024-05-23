@@ -1,0 +1,3 @@
+modules/inferencing/CMakeFiles/inferencing_tflite_micro.dir/lib_tflite_micro/lib_tflite_micro/submodules/tflite-micro/tensorflow/lite/micro/kernels/detection_postprocess_flexbuffers_generated_data.cc.obj: \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/inferencing/lib_tflite_micro/lib_tflite_micro/submodules/tflite-micro/tensorflow/lite/micro/kernels/detection_postprocess_flexbuffers_generated_data.cc \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/inferencing/lib_tflite_micro/lib_tflite_micro/submodules/tflite-micro/tensorflow/lite/micro/kernels/detection_postprocess_flexbuffers_generated_data.h

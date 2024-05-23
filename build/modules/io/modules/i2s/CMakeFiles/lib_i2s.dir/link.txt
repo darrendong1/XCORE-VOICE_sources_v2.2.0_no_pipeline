@@ -1,0 +1,2 @@
+xmosar qc liblib_i2s.a CMakeFiles/lib_i2s.dir/src/i2s_master.c.obj CMakeFiles/lib_i2s.dir/src/i2s_slave.c.obj CMakeFiles/lib_i2s.dir/src/i2s_tdm_slave.c.obj
+echo liblib_i2s.a

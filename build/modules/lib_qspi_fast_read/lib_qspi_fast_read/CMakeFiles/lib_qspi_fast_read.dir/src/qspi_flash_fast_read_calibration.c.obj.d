@@ -1,0 +1,27 @@
+modules/lib_qspi_fast_read/lib_qspi_fast_read/CMakeFiles/lib_qspi_fast_read.dir/src/qspi_flash_fast_read_calibration.c.obj: \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/lib_qspi_fast_read/lib_qspi_fast_read/src/qspi_flash_fast_read_calibration.c \
+  /home/dd/code/songxi/XCORE-VOICE_sources_v2.2.0_lenovo/modules/lib_qspi_fast_read/lib_qspi_fast_read/api/qspi_flash_fast_read.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/stdint.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/timer.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_g4000b-512.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_user.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_defines.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_kernel.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs3a_registers.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xs1_clock.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xclib.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/clock.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_common.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_clock_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_resource_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_macros.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_feature_test_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/platform.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/port.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/clang/stddef.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_port_impl.h \
+  /home/dd/XMOS/XTC/15.2.1/target/include/xcore/_support/xcore_meta_macro.h
